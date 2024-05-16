@@ -1,0 +1,9 @@
+#### if zhipuai from `https://open.bigmodel.cn`. You can set here or export API_KEY="YOUR_API_KEY"
+# ZHIPUAI_API_KEY: "5a62ac..."
+# GLOBAL_PROXY: http://127.0.0.1  # 改成自己的代理服务器地址
+
+
+llm:
+  api_type: 'zhipuai'
+  api_key: '5a62..'
+  model: 'glm-4'
