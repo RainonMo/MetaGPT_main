@@ -35,6 +35,8 @@ llm:
 python demo.py
 ```
 
+![demo](doc/demo.png)
+
 # 版本
 
 ## 0.6
@@ -57,5 +59,6 @@ self.set_actions([SimpleWriteCode])
 export WXPUSHER_TOKEN=AT_xxxxxxxxxxxxxxxxxxxxxx
 export WXPUSHER_UIDS=UID_xxxxxxxxxxxxxxxxxxxxxxxxx
 
-python GithubTrendingSend.py
+python GithubTrendingZJ.py
 ```
+![github](doc/github.png)
